@@ -19,3 +19,7 @@ Iteration 2:
     a. sprints are a set of tasks
     b. backlog should not contains tasks inside a sprint
 3. Archive tasks
+
+Iteration 3:
+
+1. The dreaded server side
